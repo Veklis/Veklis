@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on anything that's fun
-- 📫 How to reach me kavibharathi.work@gmail.com
+- 📫 How to reach me lucustudioofficial@gmail.com
 
 <!---
 Veklis/Veklis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
